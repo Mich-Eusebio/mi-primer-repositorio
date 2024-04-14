@@ -1,0 +1,9 @@
+comandos de git 
+
+git init. git comienza a hacer seguimiento del proyecto, generalmente se usa al apar se inicia el proyecto
+git nombre_del_archivo: ad, hacer seguimiento a todos o algunos archivos
+internamente git lleva el archivo desde local al area de enseyo
+git commit, lleva los achivos de ensayo al +area de repositorio local, (donde se hace la instantanea)
+para agregar un comentario se hace git commit -m "comentario"
+git status -s: listar los archivos y directorios 
+git rest --hard códigodelainstantanea: borra un comit 

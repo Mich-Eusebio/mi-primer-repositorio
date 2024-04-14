@@ -1,0 +1,3 @@
+este archivo fue creado por accidente
+
+print("primer archivo con git")
