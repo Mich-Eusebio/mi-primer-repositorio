@@ -1,5 +1,5 @@
 # Palabra de prueba
-palabra = "amor"
+palabra = input("ingresa tu palabra: ").lower()
 
 # Función para comprobar palíndromos
 def is_paronimo(n):
@@ -18,3 +18,5 @@ if palabra == is_paronimo(len(palabra)):
     print("Sí es un palíndromo.")
 else:
     print("No es un palíndromo.")
+
+
